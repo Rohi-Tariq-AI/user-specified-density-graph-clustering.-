@@ -1,4 +1,4 @@
-# User-Specified Density Graph Clustering Toolkit v0.4.0
+# User-Specified Density Graph Clustering Toolkit v1.0.0.
 
 A research-oriented Python toolkit for graph clustering.
 
