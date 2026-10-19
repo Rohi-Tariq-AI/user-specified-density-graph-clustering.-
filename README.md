@@ -1,6 +1,6 @@
 # User-Specified Density Graph Clustering Toolkit v0.4.0
 
-A research-oriented Python toolkit for graph clustering, community detection, and the analysis of complex networks.
+A research-oriented Python toolkit for graph clustering.
 
 The repository will provide cleaned, documented, and reproducible implementations of graph-clustering algorithm developed and evaluated during my PhD research..
 
